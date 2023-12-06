@@ -1,6 +1,6 @@
 Feature: Zoom Out Functionality
 
-  @ZoomOut
+  @ZoomOut @RegressionSuite
   Scenario: Zoom out using Zoom out button
     #Given user opens the browser and launches ArcGIS Map Viewer application
     When user logs into ArcGIS Map Viewer application

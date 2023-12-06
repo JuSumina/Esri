@@ -11,7 +11,7 @@ public class ConfigReader {
 
     public static Properties readProperties() {
         try {
-            FileInputStream file  =new FileInputStream(Constants.PROPERTY_FILE_PATH);
+            FileInputStream file  = new FileInputStream(Constants.PROPERTY_FILE_PATH);
             properties = new Properties();
             properties.load(file);
 

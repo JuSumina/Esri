@@ -1,6 +1,6 @@
 Feature: Search Tool Functionality
 
-  @SearchTool
+  @SearchTool @RegressionSuite
   Scenario: Search place using Search tool
     #Given user opens the browser and launches ArcGIS Map Viewer application
     When user logs into ArcGIS Map Viewer application

@@ -1,6 +1,6 @@
 Feature: Measure Tool Functionality
 
-  @MeasureTool
+  @MeasureTool @RegressionSuite
   Scenario: Measure distance using Measuring tool
     #Given user opens the browser and launches ArcGIS Map Viewer application
     When user logs into ArcGIS Map Viewer application

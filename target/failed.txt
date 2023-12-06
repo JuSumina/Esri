@@ -1,1 +1,2 @@
+file:src/test/resources/Features/MeasureTool.feature:4
 file:src/test/resources/Features/SearchTool.feature:4
